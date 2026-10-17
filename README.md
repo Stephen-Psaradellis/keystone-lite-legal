@@ -5,12 +5,12 @@ injury, family law, wills and estates, real estate or business law, or any pract
 books consultations.
 No framework, no build step: open `index.html`, change the words, upload the folder.
 
-**Live preview:** https://stephen-psaradellis.github.io/keystone-lite-legal/
+**Live preview:** https://stephen-psaradellis.github.io/law-firm-website-template/
 
 Running a plumbing, HVAC or electrical business instead? The same layout with a trades
-theme is [Keystone Lite](https://github.com/Stephen-Psaradellis/keystone-lite). A dental
-practice? [Keystone Lite Dental](https://github.com/Stephen-Psaradellis/keystone-lite-dental).
-A cleaning service? [Keystone Lite Cleaning](https://github.com/Stephen-Psaradellis/keystone-lite-cleaning).
+theme is [Keystone Lite](https://github.com/Stephen-Psaradellis/plumber-website-template). A dental
+practice? [Keystone Lite Dental](https://github.com/Stephen-Psaradellis/dentist-website-template).
+A cleaning service? [Keystone Lite Cleaning](https://github.com/Stephen-Psaradellis/cleaning-website-template).
 
 ## What you get (free, MIT)
 
