@@ -11,6 +11,7 @@ Running a plumbing, HVAC or electrical business instead? The same layout with a 
 theme is [Keystone Lite](https://github.com/Stephen-Psaradellis/plumber-website-template). A dental
 practice? [Keystone Lite Dental](https://github.com/Stephen-Psaradellis/dentist-website-template).
 A cleaning service? [Keystone Lite Cleaning](https://github.com/Stephen-Psaradellis/cleaning-website-template).
+A roofing company? [Keystone Lite Roofing](https://github.com/Stephen-Psaradellis/roofing-website-template).
 
 ## What you get (free, MIT)
 
@@ -40,9 +41,9 @@ Keystone Lite is the home page of **Keystone**, a 16-page template:
 
 | | Lite (this repo) | Keystone |
 |---|---|---|
-| Home page | 1 (law firm) | 4 (plumbing/HVAC, dental, cleaning, law firm) |
+| Home page | 1 (law firm) | 5 (plumbing/HVAC, dental, cleaning, law firm, roofing) |
 | Inner pages | none | Services, Service detail, About, Pricing, Reviews, FAQ, Contact, Booking, Blog, Blog post, Thank-you, Privacy, 404 |
-| Colour presets | 1 | 4, one class each (plumbing, dental, cleaning, legal) |
+| Colour presets | 1 | 5, one class each (plumbing, dental, cleaning, legal, roofing) |
 | Booking / consultation form | no | yes, with matter type, date and time window |
 | Contact form | no | ready for Netlify Forms or Formspree |
 | Pricing table with monthly/yearly toggle | no | yes |
